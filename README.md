@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I'm currently working on e-commerce search applications. 
+
+My area of interests: search, e-commerce, e-commerce search, NLP, ML, cloud technologies, distributed applications, reliability, high availability, docker, kubernetes, DevOps, python, ruby, nodejs.
+
 <!--
 **frutik/frutik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
