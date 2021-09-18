@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm currently working on e-commerce search applications. 
+I have been working in the field of search for e-commerce/platforms for almost the decade. 
 
 My area of interests: search, e-commerce, e-commerce search, NLP, ML, cloud technologies, distributed applications, reliability, high availability, docker, kubernetes, DevOps/SRE, python, ruby, nodejs.
 
