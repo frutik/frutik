@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I have been working in domain of the search for e-commerce/marketplaces for almost the decade. 
+I have been working in the domain of search for e-commerce/marketplaces for almost a decade. 
 
-My area of interests: search, e-commerce, e-commerce search, NLP, ML, cloud technologies, distributed applications, reliability, high availability, docker, kubernetes, DevOps/SRE, python, ruby, nodejs.
+My area of interest: search, e-commerce, e-commerce search, NLP, ML, cloud technologies, distributed applications, reliability, high availability, docker, Kubernetes, DevOps/SRE, python, ruby, nodejs.
 
 Currently: webshop.nl, shops.ae Ex: lohika.com, marktplaats.nl, nationalevacaturebank.nl, belvilla.com, kasta.ua
 
